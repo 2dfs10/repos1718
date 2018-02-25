@@ -11,5 +11,6 @@ fnjertjhntyjfn sd sd vsdvsdcsdcs dsvh gihi dsvsvsdvvdfbv fgjfg gfbfgn v f d
     
 Esta linea la escribo desde la web
 esto lo escribo desde el pc
+syncronize
 </body>
 </html>
