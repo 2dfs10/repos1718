@@ -7,10 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-fnjertjhntyjfn sd sd vsdvsdcsdcs dsvh gihi dsvsvsdvvdfbv fgjfg gfbfgn v f d
-    
-Esta linea la escribo desde la web
-esto lo escribo desde el pc
-syncronize
+
+
+Aqui escribo el codigo de la rama 1
+
 </body>
 </html>
